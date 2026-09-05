@@ -1,4 +1,7 @@
-# Hi there 👋 I'm InAddict1
+# Hi there 👋 I'm InAddict1 - [VibraNet™](https://vibranet.codeberg.page/fr)
+[![VibraNet™](https://vibranet.codeberg.page/res/img/logo1.png)](https://vibranet.codeberg.page/fr)
+
+---
 
 Bienvenue sur mon profil officiel ! Je suis créateur de contenu et passionné d'informatique. Vous trouverez ici le hub central regroupant l'ensemble de mes projets, mes réseaux et mes contributions.
 
